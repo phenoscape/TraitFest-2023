@@ -8,4 +8,6 @@ This workshop is an event intended for learning, collaboration, and engagement i
 
 **Be Open** We welcome attendees from all backgrounds. This event is about increasing the overall amount of learning, partnership, and engagement in the community.
 
-**Be Awesome** Do your best and believe in yourself. Participants violating these rules may be asked to leave the hackathon at the sole discretion of the organizers. Thank you for helping make this a welcoming, friendly place for all.
+**Be Awesome** Do your best and believe in yourself. 
+
+Participants violating these rules may be asked to leave the hackathon at the sole discretion of the organizers. Thank you for helping make this a welcoming, friendly place for all.
